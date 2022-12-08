@@ -1,31 +1,20 @@
-Dopetrope by HTML5 UP
+Dopetrope ha sido creado por HTML5 UP y editado por Erika Martín.
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Gratis para uso personal y comercial bajo la licencia CCA 3.0 (html5up.net/license)
 
+Las imágenes de demostración* son cortesía de Janine Pring, también conocida como Dreametry Doodle.
+Su trabajo [se puede encontrar aquí](dreametrydoodle.com).
 
-A spiffy new blog/magazine style responsive site template with a flat/minimal
-design aesthetic.
+Créditos:
 
-Demo images* are courtesy of the incredibly talented Janine Pring aka Dreametry Doodle.
-See more of her amazing work (and her awesome t-shirt line) @ dreametrydoodle.com
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Janine's work without her explicit permission!)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
+	Demo Imágenes:
 		Dreametry Doodle (dreametrydoodle.com)
 
-	Icons:
+	Iconos:
 		Font Awesome (fontawesome.io)
 
-	Other:
+	Otros:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Traducción del archivo README realizada por Erika Martín.
